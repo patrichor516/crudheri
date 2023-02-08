@@ -63,4 +63,5 @@ while($user_data = mysqli_fetch_array($result))
         </table>
     </form>
 </body>
+
 </html>
